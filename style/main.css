@@ -1,0 +1,23 @@
+h1 {
+font-family: Helvetica;
+font-size: 50px;
+height: 120px;
+text-align: center;
+padding-top: 5px;
+padding-bottom: 20px;
+}
+
+body{
+  color: blue;
+}
+
+form{
+  padding: 20px;
+}
+
+footer{
+background-color: #e8c5c3;
+height: 200px;
+padding: 10px;
+text-align: center;
+}
